@@ -9,8 +9,18 @@ Welcome to my journey through the 100Devs program by Leon Noel! I'm learning ful
 
 This is a simple HTML version of the BBC homepage I created in Week 1.
 
-🔗 [View the project here](./BBC.html)
+🔗 [View the project here](./BBC.html)  
 
+### 📁 Week 2: Intro to CSS  
+I learned how to style my BBC page using CSS.  
+This included:
+- Changing text colors and fonts  
+- Centering elements  
+- Using selectors like `p`, `h1`, and `body`
+
+Excited to keep building my skills!
+
+I combined my CSS with the HTML I built last week to make my **BBC clone** look more real! I'm proud of how far I’ve come — one
 
 ## 🛠 Tools I'm Using
 - CodePen
